@@ -38,7 +38,7 @@ pyparsing==2.4.7
 pytest==5.4.3
 pytype==2020.6.1
 pytz==2020.1
-PyYAML==5.3.1
+PyYAML==5.4
 qrcode==6.1
 requests==2.23.0
 semver==2.10.2
