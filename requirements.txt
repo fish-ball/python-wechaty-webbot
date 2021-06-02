@@ -49,7 +49,7 @@ tornado==6.0.4
 typed-ast==1.4.1
 typing-extensions==3.7.4.2
 tzlocal==2.1
-urllib3==1.25.9
+urllib3==1.26.5
 wcwidth==0.2.5
 wechaty==0.5.dev1
 wechaty-puppet==0.0.11
